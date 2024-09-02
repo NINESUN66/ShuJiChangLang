@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9629b3078d9d42a4eabc6dcd6849476c
+timeCreated: 1463457408
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 61542
+  packageName: AR LiSuGB MD (Lite)
+  packageVersion: 0.3
+  assetPath: Assets/fonts/arlishugbmd_test/Readme.txt
+  uploadId: 186914
